@@ -1,13 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  name: MyString
   profile_pic: MyString
-  username: MyString
-  comment: one
-  favorite: one
+  bio: MyString
 
 two:
+  name: MyString
   profile_pic: MyString
-  username: MyString
-  comment: two
-  favorite: two
+  bio: MyString

@@ -1,4 +1,4 @@
 class Artist < ApplicationRecord
-  belongs_to :comment
-  belongs_to :favorite
+    has_many :comments, dependent: :destroy
+    has_many :users, through: :comments
 end

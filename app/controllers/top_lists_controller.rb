@@ -1,0 +1,2 @@
+class TopListsController < ApplicationController
+end

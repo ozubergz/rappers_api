@@ -1,11 +1,9 @@
 class CreateArtists < ActiveRecord::Migration[6.0]
   def change
     create_table :artists do |t|
-      t.string :profile_pic
       t.string :name
+      t.string :profile_pic
       t.string :bio
-      t.references :comment, null: false, foreign_key: true
-      t.references :favorite, null: false, foreign_key: true
 
       t.timestamps
     end

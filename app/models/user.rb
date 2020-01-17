@@ -1,4 +1,4 @@
 class User < ApplicationRecord
-  belongs_to :comment
-  belongs_to :favorite
+    has_many :comments, dependent: :destroy
+    has_many :artists, through: :comments
 end

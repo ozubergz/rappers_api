@@ -10,47 +10,47 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_01_17_195633) do
+ActiveRecord::Schema.define(version: 2020_01_17_212629) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "artists", force: :cascade do |t|
-    t.string "profile_pic"
     t.string "name"
+    t.string "profile_pic"
     t.string "bio"
-    t.bigint "comment_id", null: false
-    t.bigint "favorite_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["comment_id"], name: "index_artists_on_comment_id"
-    t.index ["favorite_id"], name: "index_artists_on_favorite_id"
   end
 
   create_table "comments", force: :cascade do |t|
     t.string "content"
+    t.bigint "user_id", null: false
+    t.bigint "artist_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["artist_id"], name: "index_comments_on_artist_id"
+    t.index ["user_id"], name: "index_comments_on_user_id"
   end
 
-  create_table "favorites", force: :cascade do |t|
+  create_table "top_lists", force: :cascade do |t|
+    t.bigint "user_id", null: false
+    t.bigint "artist_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["artist_id"], name: "index_top_lists_on_artist_id"
+    t.index ["user_id"], name: "index_top_lists_on_user_id"
   end
 
   create_table "users", force: :cascade do |t|
-    t.string "profile_pic"
     t.string "username"
-    t.bigint "comment_id", null: false
-    t.bigint "favorite_id", null: false
+    t.string "profile_pic"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["comment_id"], name: "index_users_on_comment_id"
-    t.index ["favorite_id"], name: "index_users_on_favorite_id"
   end
 
-  add_foreign_key "artists", "comments"
-  add_foreign_key "artists", "favorites"
-  add_foreign_key "users", "comments"
-  add_foreign_key "users", "favorites"
+  add_foreign_key "comments", "artists"
+  add_foreign_key "comments", "users"
+  add_foreign_key "top_lists", "artists"
+  add_foreign_key "top_lists", "users"
 end

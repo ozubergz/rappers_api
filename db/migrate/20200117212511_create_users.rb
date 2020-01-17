@@ -1,10 +1,8 @@
 class CreateUsers < ActiveRecord::Migration[6.0]
   def change
     create_table :users do |t|
-      t.string :profile_pic
       t.string :username
-      t.references :comment, null: false, foreign_key: true
-      t.references :favorite, null: false, foreign_key: true
+      t.string :profile_pic
 
       t.timestamps
     end
