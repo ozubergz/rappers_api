@@ -114,6 +114,240 @@ Artist.create(
     profile_pic: "https://thefederalist.com/wp-content/uploads/2020/01/Cardi-B.jpg"
 )
 
+Artist.create(
+    name: "Nicki Minaj",
+    bio: "Onika Tanya Maraj-Petty (born December 8, 1982), known professionally as Nicki Minaj, is a rapper, singer, songwriter, actress, and model. Born in Saint James, Port of Spain, and raised in Queens, New York City, she gained public recognition after releasing the mixtapes Playtime Is Over (2007), Sucka Free (2008), and Beam Me Up Scotty (2009)."
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/6/66/Nicki_Minaj_cropped.jpg"
+)
+
+Artist.create(
+    name: "Wiz Khalifa",
+    bio: "Cameron Jibril Thomaz (born September 8, 1987), known professionally as Wiz Khalifa, is an American rapper, singer, songwriter and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros. Records in 2007. His Eurodance-influenced single, 'Say Yeah', received urban radio airplay, charting on the Rhythmic Top 40 and Hot Rap Tracks charts in 2008, becoming his first minor hit.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Wiz_Khalifa_Stavernfestivalen_2018_%28231822%29.jpg"
+)
+
+Artist.create(
+    name: "Kendrick Lamar",
+    bio: "Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. He is regarded by many critics and contemporaries as one of the most important and influential rappers of his generation, and as one of the greatest rappers of all time.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/32/Pulitzer2018-portraits-kendrick-lamar.jpg"
+)
+
+Artist.create(
+    name: "Jay-Z",
+    bio: "Shawn Corey Carter (born December 4, 1969), known professionally as Jay-Z (stylized as JAY-Z), is an American rapper, songwriter, producer, entrepreneur, and record executive. He is regarded as one of the greatest rappers of all time.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg"
+)
+
+Artist.create(
+    name: "J. Cole",
+    bio: "Jermaine Lamarr Cole (born January 28, 1985) is an American rapper, singer, songwriter, producer, and record executive. Born on a military base in Germany and raised in Fayetteville, North Carolina, Cole initially gained recognition as a rapper following the release of his debut mixtape, The Come Up, in early 2007. Intent on further pursuing a solo career as a rapper, he went on to release two additional mixtapes, The Warm Up (2009) and Friday Night Lights (2010), after signing to Jay-Z's Roc Nation imprint in 2009.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/31/JCole2018.png"
+)
+
+Artist.create(
+    name: "Kanye West",
+    bio: "Kanye Omari West (born June 8, 1977) is an American rapper, singer, songwriter, record producer, entrepreneur, and fashion designer. West is among the most critically acclaimed musicians of the 21st century. His music has spanned a broad range of styles, incorporating an eclectic range of influences including hip hop, soul, baroque pop, electro, indie rock, synth-pop, industrial, and gospel.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kanye_West_at_the_2009_Tribeca_Film_Festival-2_%28cropped%29.jpg"
+)
+
+Artist.create(
+    name: "Joyner Lucas",
+    bio: "Gary Maurice 'Joyner' Lucas, Jr. (born August 17, 1988) is an American rapper, singer, songwriter, record producer, poet, and actor from Worcester, Massachusetts.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/30/Joyner_Lucas.jpg"
+)
+
+Artist.create(
+    name: "Eminem",
+    bio: "Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem (often stylized as EMINƎM), is an American rapper, songwriter, record producer and record executive. He is one of the most successful musical artists of the 21st century. In addition to his solo career, Eminem was a member of the hip hop group D12. He is also known for collaborations with fellow Detroit-based rapper Royce da 5'9; the two are collectively known as Bad Meets Evil.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eminem_live_at_D.C._2014_%28cropped%29.jpg"
+)
+
+Artist.create(
+    name: "Nas",
+    bio: "Nasir bin Olu Dara Jones (born September 14, 1973), known professionally as Nas, is an American rapper, songwriter, entrepreneur, and investor. The son of jazz musician Olu Dara, Nas has released eight consecutive platinum and multi-platinum albums and has sold over 30 million records worldwide. He is also an entrepreneur through his own record label; he serves as associate publisher of Mass Appeal magazine and the co-founder of Mass Appeal Records.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/1/18/Nas_July_2014_%28cropped%29.jpg"
+)
+
+Artist.create(
+    name: "The Notorious B.I.G.",
+    bio: "Christopher George Latore Wallace (May 21, 1972 – March 9, 1997), known professionally as The Notorious B.I.G., Biggie Smalls, or Biggie, was an American rapper. He is widely considered to be one of the greatest rappers of all time. The Notorious B.I.G. was noted for his 'loose, easy flow'; dark, semi-autobiographical lyrics; and storytelling abilities, which focused on crime and hardship.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/en/5/51/The_Notorious_B.I.G.jpg"
+)
+
+Artist.create(
+    name: "Tupac Shakur",
+    bio: "Tupac Amaru Shakur (born Lesane Parish Crooks, June 16, 1971 – September 13, 1996), popularly known by his stage name 2Pac, was an American rapper and actor. He is considered by many as one of the most significant rappers of all time. Much of Shakur's work has been noted for addressing contemporary social issues that plagued inner cities, and he is considered a symbol of resistance and activism against inequality.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/en/b/b5/Tupac_Amaru_Shakur2.jpg"
+)
+
+Artist.create(
+    name: "Ice Cube",
+    bio: "O'Shea Jackson (born June 15, 1969), known professionally as Ice Cube, is an American rapper, actor, producer, director and writer. Ice Cube initially gained recognition in 1986 as a member of the hip hop group C.I.A., which gained limited commercial success prior to disbanding around the time N.W.A formed. Ice Cube, alongside Dr. Dre and Eazy E, formed the group N.W.A, where he gained extreme notoriety as the group's primary songwriter and performer, noted for becoming one of the founding artists of gangsta rap, and pushing the boundaries of lyrical content in mainstream popular music, as well as visual imagery in music videos.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg"
+)
+
+Artist.create(
+    name: "Dr. Dre",
+    bio: "Andre Romelle Young (born February 18, 1965), known professionally as Dr. Dre, is an American rapper, record producer, entrepreneur, record executive, actor, and audio engineer. He is the founder and CEO of Aftermath Entertainment and Beats Electronics, and was previously co-owner of Death Row Records. Dr. Dre began his career as a member of the World Class Wreckin' Cru in 1985, but found fame with the influential gangsta rap group N.W.A, which popularized explicit lyrics in rap to detail the violence of street life. He is credited as a key figure in the crafting and popularization of West Coast G-funk, a subgenre of hip hop characterized by a synthesizer foundation and slow, heavy beats. As of 2018, he is the second-richest figure in hip hop, with an estimated net worth of US$800 million.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg"
+)
+
+Artist.create(
+    name: "Snoop Dogg",
+    bio: "Calvin Cordozar Broadus Jr. (born October 20, 1971), known professionally as Snoop Dogg, is an American rapper, singer, songwriter, producer, media personality, entrepreneur, and actor. His music career began in 1992 when he was discovered by Dr. Dre and featured on Dre's solo debut, 'Deep Cover', and then on Dre's solo debut album, The Chronic. He has since sold over 23 million albums in the United States and 35 million albums worldwide.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg"
+)
+
+Artist.create(
+    name: "Eazy-E",
+    bio: "Eric Lynn Wright (September 7, 1964 – March 26, 1995), known professionally as Eazy-E, was an American rapper, record producer, and entrepreneur. Dubbed the 'Godfather of Gangsta Rap', he gained prominence for his work with N.W.A, where he has been credited for pushing the boundaries of lyrical and visual content in mainstream popular music.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eazy_E_headshot_%28cropped%29.jpg"
+)
+
+Artist.create(
+    name: "50 Cent",
+    bio: "Curtis James Jackson III (born July 6, 1975), known professionally as 50 Cent, is an American singer, songwriter, rapper, actor, television producer, entrepreneur and investor. Born in the South Jamaica neighborhood of the borough of Queens, Jackson began selling drugs at age twelve during the 1980s crack epidemic. He later began pursuing a musical career and in 2000 he produced Power of the Dollar for Columbia Records, but days before the planned release he was shot and the album was never released. In 2002, after Jackson released the compilation album Guess Who's Back?, he was discovered by Eminem and signed to Shady Records, under the aegis of Dr. Dre's Aftermath Entertainment and Interscope Records.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/6/64/50_Cent.jpg"
+)
+
+Artist.create(
+    name: "Logic",
+    bio: "Sir Robert Bryson Hall II (born January 22, 1990), known professionally as Logic, is an American rapper, singer, songwriter, record producer and author. Raised in Gaithersburg, Maryland, Logic developed an interest in music as a teenager, and ventured into a musical career in early 2009, releasing Logic: The Mixtape and a mixtape titled Young, Broke & Infamous in 2010. He then signed with Visionary Music Group, and subsequently released three additional mixtapes over three years. His fourth mixtape, Young Sinatra: Welcome to Forever (2013), was released to critical acclaim and allowed Logic to secure a recording contract with Def Jam Recordings.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Logic_at_2018_VMAs.png"
+)
+
+Artist.create(
+    name: "Machine Gun Kelly",
+    bio: "Colson Baker (born Richard Colson Baker; April 22, 1990), known professionally as Machine Gun Kelly (abbreviated as MGK), is an American rapper, singer, songwriter and actor from Cleveland, Ohio. He embarked on a musical career as a teenager, releasing a mixtape in 2006. He went on to release four more mixtapes.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/37/2017_RiP_-_Machine_Gun_Kelly_-_by_2eight_-_8SC7764.jpg"
+)
+
+Artist.create(
+    name: "Lil Uzi Vert",
+    bio: "Symere Woods (born July 31, 1994), known professionally as Lil Uzi Vert, is an American rapper, singer and songwriter. Born and raised in Philadelphia, Lil Uzi gained initial recognition following the release of the commercial mixtape Luv Is Rage (2015), which led to a recording contract with Atlantic Records, to whom he signed to under DJ Drama's Generation Now imprint. He then attracted mainstream attention following the release of his debut single 'Money Longer' in 2016, which peaked at number 54 on the Billboard Hot 100, and later became certified double platinum.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/4/44/Lil_Uzi_Vert_%282018%29.png"
+)
+Artist.create(
+    name: "Lil Baby",
+    bio: "Dominique Armani Jones (born December 3, 1994), known professionally as Lil Baby, is an American rapper, singer, and composer from Atlanta, Georgia. He rose to attention and acclaim in 2017 when he released his mixtape Perfect Timing. He is best known for his singles 'My Dawg', 'Freestyle', 'Yes Indeed', 'Drip Too Hard' and 'Close Friends', the latter three peaking at number 6, 4 and 28 respectively on the Billboard Hot 100 chart.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lil_Baby_Icebox.png"
+)
+
+Artist.create(
+    name: "DaBaby",
+    bio: "Jonathan Lyndale Kirk (born December 22, 1991),[3] better known as DaBaby (formerly known as Baby Jesus), is an American rapper and songwriter from Charlotte, North Carolina. He is best known for his singles 'Suge' and 'Bop', peaking at number seven and eleven respectively on the Billboard Hot 100.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/0/0e/DaBaby_-_The_Know_Show.png"
+)
+
+Artist.create(
+    name: "Megan Thee Stallion",
+    bio: "Megan Jovon Ruth Pete (born February 15, 1995), known professionally as Megan Thee Stallion (pronounced 'Megan the Stallion'), is an American rapper, singer, actress and songwriter. She released the EP Tina Snow in June 2018. She signed to 300 Entertainment in November 2018, making her the first female rapper on the label. Her first full-length project, Fever, was released on May 17, 2019.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Megan_Thee_Stallion_2019_2.jpg"
+)
+
+Artist.create(
+    name: "Blueface",
+    bio: "Johnathan Michael Porter (born January 20, 1997), known professionally as Blueface, is an American rapper and songwriter. In October 2018, after releasing the music video for his song 'Respect My Cryppin', he became a viral internet meme due to his off-beat style of rapping and his tattoo of Benjamin Franklin on the side of his face. In November 2018, he signed to Cash Money West, the West Coast branch of Birdman's Cash Money Records label. In 2019, a remix of his song 'Thotiana', featuring Cardi B and YG, became his most successful single to date, peaking at number 8 on the Billboard Hot 100.",
+    profile_pic: "https://vignette.wikia.nocookie.net/horrible-music-and-songs/images/9/99/Blueface.jpg/revision/latest/scale-to-width-down/310?cb=20181227211903"
+)
+
+Artist.create(
+    name: "YNW Melly",
+    bio: "Jamell Maurice Demons (born May 1, 1999), known professionally as YNW Melly, is an American rapper, singer and songwriter from Gifford, Florida. He is best known for his songs 'Murder on My Mind' and 'Mixed Personalities' featuring Kanye West. His single 'Murder on My Mind' is considered YNW Melly's breakout, which garnered even further attention after the rapper was charged with double-murder. He released his debut album, We All Shine, on January 17, 2019, to generally positive reviews with critics.",
+    profile_pic: "https://en.wikipedia.org/wiki/YNW_Melly#/media/File:YNW_Melly_-_Mug_shot_(2019).jpg"
+)
+
+Artist.create(
+    name: "YoungBoy Never Broke Again",
+    bio: "Kentrell DeSean Gaulden (born October 20, 1999), known professionally as YoungBoy Never Broke Again (also known as NBA YoungBoy or simply YoungBoy), is an American rapper, singer, and songwriter. Between 2015 and 2017, Gaulden would release eight independent mixtapes locally and online, and steadily garner a cult following through his work. In late 2017, Gaulden was signed to Atlantic Records, who would distribute two additional mixtapes before releasing his highest charting solo single, 'Outside Today' in January 2018–which peaked at number 31 on the Billboard Hot 100 chart. The song was the lead single for his debut studio album Until Death Call My Name, released in April of that year. His follow up singles include 'Valuable Pain', 'Slime Belief' and 'Genie'.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/4/43/NBA_YOUNGBOY_2018.png"
+)
+
+Artist.create(
+    name: "NLE Choppa",
+    bio: "Bryson Lashun Potts (born November 1, 2002), better known as NLE Choppa (formerly known as YNR Choppa), is an American rapper, singer, songwriter, and entertainer based in Memphis, Tennessee. He is best known for his 2019 breakout single 'Shotta Flow', which was certified platinum by the RIAA.",
+    profile_pic: "https://urbanislandz.com/wp-content/uploads/2019/11/NLE-Choppa.jpg"
+)
+
+Artist.create(
+    name: "Roddy Ricch",
+    bio: "Rodrick Wayne Moore, Jr.(born October 22, 1998), known professionally as Roddy Ricch, is an American rapper, singer, songwriter, and record producer. He is signed to Atlantic Records. In November 2018, he released the mixtape, Feed Tha Streets II, which peaked at number 67 on the Billboard 200 chart. He released his debut studio album Please Excuse Me for Being Antisocial on December 6, 2019, which debuted atop the Billboard 200. Although it was not promoted as a single, it spawned the Billboard Hot 100 number-one song 'The Box', becoming his most popular song worldwide.",
+    profile_pic: "https://djbooth.net/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTY4ODE5NDIwNjY2Mjc1MjUx/roddy-ricch-one-listen-album-review.webp"
+)
+
+Artist.create(
+    name: "Polo G",
+    bio: "Taurus Tremani Bartlett, better known as Polo G, is an American rapper, singer and songwriter from Chicago, Illinois. He is best known for his song 'Pop Out' with Bronx rapper Lil Tjay, which has amassed over 100 million views on YouTube and peaked at number 11 on the Billboard Hot 100.",
+    profile_pic: "https://media1.fdncms.com/chicago/imager/u/original/72665257/polo_g_web.jpg"
+)
+
+Artist.create(
+    name: "Gunna",
+    bio: "Sergio Giavanni Kitchens Malungo[1] (born June 14, 1993), better known by his stage name Gunna, is an American rapper, singer and songwriter. Best known for his collaborations with Lil Baby and Young Thug, he is signed to 300 Entertainment and Young Thug's record label, YSL Records.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Gunna_-_Openair_Frauenfeld_2019_09.jpg"
+)
+
+Artist.create(
+    name: "Lil Tecca",
+    bio: "Tyler-Justin Anthony Sharpe (born August 26, 2002), known professionally as Lil Tecca, is an American rapper, singer and songwriter. He gained recognition upon releasing his breakout single, 'Ransom', which has amassed over 400 million plays on Spotify and peaked at number four on the Billboard Hot 100.",
+    profile_pic: "https://static.stereogum.com/uploads/2019/08/Lil-Tecca-1566488884-640x694.jpeg"
+)
+
+Artist.create(
+    name: "Lil Mosey",
+    bio: "Lathan Moses Stanley Echols (born January 25, 2002), known professionally as Lil Mosey, is an American rapper from Seattle, Washington. His most commercially successful song, 'Noticed', peaked at number 80 on the Billboard Hot 100. He released his debut album with his label, Interscope Records, titled Northsbest in October 2018. In June 2019, Mosey was listed among the 2019 XXL Freshman Class.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lil_Mosey_%2841879461061%29_%28retouched%29_%28cropped%29.jpg"
+)
+
+Artist.create(
+    name: "Juice Wrld",
+    bio: "Jarad Anthony Higgins (December 2, 1998 – December 8, 2019), known professionally as Juice Wrld (stylized as Juice WRLD), was an American rapper, singer, and songwriter. Born in Chicago, Illinois, he was known for his singles 'All Girls Are the Same' and 'Lucid Dreams' which helped him gain a recording contract with Lil Bibby's Grade A Productions and Interscope Records.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Juice_Wrld_Interview.png"
+)
+
+Artist.create(
+    name: "Lil Tjay",
+    bio: "Tione Jayden Merritt, better known as Lil Tjay, is an American rapper, singer, and songwriter. Born and raised in the Bronx he is best known for collaboration with Polo G, Pop Out, which peaked at 11 on the Billboard Hot 100 and his songs 'Brothers' and 'Leaked', which became staples on the SoundCloud charts and led to his signing with Columbia Records.",
+    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/Lil-Tjay-f-n-billboard-1548.jpg"
+)
+
+Artist.create(
+    name: "Lil Nas X",
+    bio: "Montero Lamar Hill (born April 9, 1999), known as Lil Nas X, is an American rapper, singer and songwriter. He came to international attention for his country rap single 'Old Town Road', which first achieved viral popularity on the micro-platform video sharing app TikTok in early 2019, and was Diamond Certified by November the same year. The song reached number one on the US Billboard Hot 100 and remained there for nineteen weeks, the longest for any song since the chart started in 1958. In June 2019, Nas X came out as gay, the only artist ever to have done so while having a number-one record. 'Old Town Road' earned him two MTV Video Music Awards including Song of the Year; the American Music Award for Favorite Rap/Hip Hop Song; and Nas X is the only openly LGBTQ artist to win a Country Music Association award. He has been nominated for six Grammy Awards, the most for any male in 2019, including Record of the Year, Album of the Year and Best New Artist.",
+    profile_pic: "http://www.gstatic.com/tv/thumb/persons/1247607/1247607_v9_ba.jpg"
+)
+
+Artist.create(
+    name: "Moneybagg Yo",
+    bio: "Demario DeWayne White, Jr. (born September 22, 1991), better known by his stage name Moneybagg Yo, is an American rapper and songwriter. He signed to Yo Gotti's record label, Collective Music Group (CMG), in October 2016., as well as N-Less Entertainment and his own label Bread Gang Music Group. His first two projects to debut in the Top 20, Federal 3X and 2 Heartless, debuted at number 5 and number 16 on the Billboard 200, respectively. His highest charting project is the album 43va Heartless, debuting at number four on the Billboard 200.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/4/44/Moneybagg_Yo_2018.png"
+)
+
+Artist.create(
+    name: "Trippie Redd",
+    bio: "Michael Lamar White IV (born June 18, 1999), known professionally as Trippie Redd, is an American rapper, singer and songwriter. White is best known for his songs 'Dark Knight Dummo' (featuring Travis Scott) and 'Topanga' with the former peaking at number 72 on the Billboard Hot 100 and the latter peaking at number 52.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Trippie_Redd_Photo_by_Kris_Knesel.jpg"
+)
+
+Artist.create(
+    name: "Quando Rondo",
+    bio: "Tyquian Terrel Bowman (born March 23, 1999), better known as Quando Rondo, is an American rapper and singer from Savannah, Georgia. He is currently signed to the Atlantic Records imprint, Never Broke Again, LLC. He initially gained attention with the release of his song 'I Remember' featuring Lil Baby in January 2018. He has since released three mixtapes, Life B4 Fame (2018), Life After Fame (2018), and From the Neighborhood to the Stage (2019). His song 'Motivation' was featured on the popular YouTube channel World Star Hip Hop.",
+    profile_pic: "https://i1.sndcdn.com/avatars-000670319252-u4dp1d-t500x500.jpg"
+)
+
+Artist.create(
+    name: "Young Thug",
+    bio: "Jeffery Lamar Williams (born August 16, 1991), known professionally as Young Thug, is an American rapper, singer, and songwriter. Known for his eccentric vocal style and fashion, he first received attention for his collaborations with rappers Rich Homie Quan, Birdman, and Gucci Mane. Young Thug initially released a series of independent mixtapes beginning in 2011 with I Came from Nothing. In early 2013, he signed with Gucci Mane's 1017 Records, and later that year he released his label debut mixtape 1017 Thug to critical praise.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/9/90/Young_Thug_-_Openair_Frauenfeld_2019_20.jpg"
+)
+
+Artist.create(
+    name: "A Boogie wit da Hoodie",
+    bio: "Artist Julius Dubose (born December 6, 1995), known professionally as A Boogie wit da Hoodie (or simply A Boogie), is an American rapper, singer, and songwriter. He is best known for his singles 'Look Back At It' which peaked at number 27 on the Billboard Hot 100 chart as well as 'Drowning' featuring American rapper Kodak Black, which peaked at number 38.[1] His debut studio album, The Bigger Artist, was released on September 29, 2017 and debuted at number four on the Billboard 200 chart. He released his second studio album, Hoodie SZN, on December 21, 2018, and it became his first number one album on the Billboard 200. He is signed to his own label, Highbridge the Label and Atlantic Records.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/d/d6/A_Boogie_Wit_da_Hoodie_2017_November.jpg"
+)
+
+
 
 10.times do
     Comment.create(
