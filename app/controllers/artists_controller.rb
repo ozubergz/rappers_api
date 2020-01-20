@@ -13,5 +13,4 @@ class ArtistsController < ApplicationController
             render json: {message: "No artist was found with that id."}
         end
     end
-    
 end
