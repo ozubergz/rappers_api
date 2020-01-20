@@ -1341,12 +1341,6 @@ Artist.create(
     profile_pic: "https://images.squarespace-cdn.com/content/5354320ae4b0b5927b888e0b/1513014825219-M7EDR93A3TGVNNMZT8TU/Ghostemane.jpg?content-type=image%2Fjpeg"
 )
 
-Artist.create(
-    name: "",
-    bio: "",
-    profile_pic: ""
-)
-
 100.times do
     Comment.create(
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
