@@ -18,43 +18,43 @@ Artist.create(
 Artist.create(
     name: "Chief Keef",
     bio: "Keith Farrelle Cozart (born August 15, 1995), better known by his stage name Chief Keef, is an American rapper, songwriter and record producer. Keef's music first became popular during his teen years in the early 2010s among high school students from Chicago's South Side. In 2012, his popular street single 'I Don't Like' was remixed by rapper Kanye West and reached the Billboard Rap Top 20 raising Keef's profile further. A bidding war between major labels resulted in Keef signing with Interscope. His debut album Finally Rich was released in December 2012, and featured the singles 'I Don't Like' and 'Love Sosa', which would popularize the Chicago rap subgenre drill",
-    profile_pic: "https://cdn.vox-cdn.com/thumbor/xokTDhClflpaXJBv27_gdwH2ITQ=/0x0:1072x623/1200x800/filters:focal(315x140:485x310)/cdn.vox-cdn.com/uploads/chorus_image/image/65073234/zcx2c1jnugynlhtsrjwt.0.png"
+    profile_pic: "https://media2.s-nbcnews.com/j/newscms/2017_04/1881611/170127-chief-keef-mn-1215_37682896f5e99cdb48fce75398b2c9d9.fit-760w.jpg"
 )
 
 Artist.create(
     name: "ASAP Rocky",
     bio: "Rakim Athelaston Mayers (born October 3, 1988), known professionally as ASAP Rocky (stylized as A$AP Rocky; /ˈeɪsæp/, AY-sap), is an American rapper, songwriter, record producer, model, actor, and music video director. He is a member of the hip hop collective A$AP Mob, from which he adopted his moniker.",
-    profile_pic: "https://en.wikipedia.org/wiki/ASAP_Rocky#/media/File:A$AP_Rocky_UIT_2013_(cropped)_(cropped).jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/c/c1/A%24AP_Rocky_UIT_2013_%28cropped%29_%28cropped%29.jpg"
 )
 
 Artist.create(
     name: "Kodak Black",
-    profile_pic: "https://en.wikipedia.org/wiki/Kodak_Black#/media/File:Kodak_Black_Press_Photo_by_David_Cabrera.jpg",
-    bio: "Bill K. Kapri (born Dieuson Octave; June 11, 1997), better known by his stage name Kodak Black, is an American rapper, singer and songwriter. He is noted for his singles 'Zeze', 'Roll in Peace', 'Tunnel Vision', and 'No Flockin', as well as his numerous legal issues."
+    bio: "Bill K. Kapri (born Dieuson Octave; June 11, 1997), better known by his stage name Kodak Black, is an American rapper, singer and songwriter. He is noted for his singles 'Zeze', 'Roll in Peace', 'Tunnel Vision', and 'No Flockin', as well as his numerous legal issues.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kodak_Black_Press_Photo_by_David_Cabrera.jpg"
 )
 
 Artist.create(
     name: "21 Savage",
     bio: "Shéyaa Bin Abraham-Joseph (born October 22, 1992), better known by his stage name 21 Savage, is a rapper, songwriter and record producer. He was born in London, England, and moved to Atlanta, Georgia when he was 7 years old.[8] He became known in Atlanta for the 2015 mixtape The Slaughter Tape before attaining nationwide attention following an EP collaboration Savage Mode (2016) with the producer Metro Boomin and its popular singles 'X' and 'No Heart', as well as a guest feature on the 2016 Drake single 'Sneakin'.",
-    profile_pic: "https://en.wikipedia.org/wiki/21_Savage#/media/File:21_Savage_2018.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/c/c1/21_Savage_2018.jpg"
 )
 
 Artist.create(
     name: "XXXTentacion",
-    profile_pic: "https://en.wikipedia.org/wiki/XXXTentacion#/media/File:Xxxtentacion_mugshot.jpg",
-    bio: "Jahseh Dwayne Ricardo Onfroy (January 23, 1998 – June 18, 2018), known professionally as XXXTentacion was an American rapper, singer, songwriter and musician. Despite being a controversial figure due to myriad legal issues, Onfroy developed a substantial young following and bursts of popularity during his short career.[11] He was often credited by critics and fans for his musical-versatility, with his music primarily exploring trap, R&B, rock and emo."
+    bio: "Jahseh Dwayne Ricardo Onfroy (January 23, 1998 – June 18, 2018), known professionally as XXXTentacion was an American rapper, singer, songwriter and musician. Despite being a controversial figure due to myriad legal issues, Onfroy developed a substantial young following and bursts of popularity during his short career.[11] He was often credited by critics and fans for his musical-versatility, with his music primarily exploring trap, R&B, rock and emo.",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Xxxtentacion_mugshot.jpg"
 )
 
 Artist.create(
     name: "Ski Mask the Slump God",
     bio: "Stokeley Clevon Goulbourne (born April 18, 1996), known professionally as Ski Mask the Slump God (formerly stylized as $ki Mask 'The Slump God'), is an American rapper and songwriter. He originally collaborated with fellow American rapper XXXTentacion and their collective Members Only, and in 2017 released his songs 'Catch Me Outside' and 'Babywipe', which are both featured on his mixtape YouWillRegret and certified Gold by the RIAA.",
-    profile_pic: "https://en.wikipedia.org/wiki/Ski_Mask_the_Slump_God#/media/File:Ski_Mask_The_Slump_God_(2018).jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ski_Mask_The_Slump_God_%282018%29.jpg"
 )
 
 Artist.create(
     name: "Lil Pump",
     bio: "Gazzy Garcia (born August 17, 2000), known professionally as Lil Pump, is an American rapper and songwriter. He is known for his hyperactive public persona, where he is often portrayed taking drugs, particularly marijuana, lean and Xanax; he is often criticized for his behavior seen on social media. He is also known for shouting his catchphrase 'Esskeetit' (a shortened version of 'Let's get it'). Garcia was named as one of the 30 Under 30 by Forbes in 2019.",
-    profile_pic: "https://en.wikipedia.org/wiki/Lil_Pump#/media/File:Lil_Pump_Icebox_2018_(cropped).jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lil_Pump_Icebox_2018_%28cropped%29.jpg"
 )
 
 Artist.create(
@@ -96,7 +96,7 @@ Artist.create(
 Artist.create(
     name: "Quavo",
     bio: "Quavious Marshall (born April 2, 1991), known professionally as Quavo, is an American rapper, singer, composer and record producer. He is best known as a member of the hip hop and trap music trio Migos. Quavo is related to his fellow Migos members, being Takeoff's uncle and Offset's cousin.",
-    profile_pic: "https://en.wikipedia.org/wiki/Quavo#/media/File:Quavo_Veld_festival_2017.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/5/57/Quavo_Veld_festival_2017.jpg"
 )
 Artist.create(
     name: "Lil Wayne",
@@ -254,7 +254,7 @@ Artist.create(
 Artist.create(
     name: "YNW Melly",
     bio: "Jamell Maurice Demons (born May 1, 1999), known professionally as YNW Melly, is an American rapper, singer and songwriter from Gifford, Florida. He is best known for his songs 'Murder on My Mind' and 'Mixed Personalities' featuring Kanye West. His single 'Murder on My Mind' is considered YNW Melly's breakout, which garnered even further attention after the rapper was charged with double-murder. He released his debut album, We All Shine, on January 17, 2019, to generally positive reviews with critics.",
-    profile_pic: "https://en.wikipedia.org/wiki/YNW_Melly#/media/File:YNW_Melly_-_Mug_shot_(2019).jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/b/b0/YNW_Melly_-_Mug_shot_%282019%29.jpg"
 )
 
 Artist.create(
@@ -416,7 +416,7 @@ Artist.create(
 Artist.create(
     name: "DMX",
     bio: "Earl Simmons (born December 18, 1970), known professionally as DMX, is an American rapper and actor. He began rapping in the early 1990s, and released his debut album, It's Dark and Hell Is Hot in 1998 to both critical acclaim and commercial success, selling 251,000 copies within its first week of release. He released his best-selling album, ... And Then There Was X, in 1999, which included the hit single 'Party Up (Up in Here)'. Since his debut, DMX has released seven studio albums.",
-    profile_pic: "https://img.discogs.com/gStWO7aH7JTQYyYuu9Jzoc7kGp8=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-59769-1499749066-9263.jpeg.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/38/Academy_Awards_afterparty_CUN_DMX.jpg"
 )
 
 Artist.create(
@@ -428,7 +428,7 @@ Artist.create(
 Artist.create(
     name: "Big L",
     bio: "Lamont Coleman (May 30, 1974 – February 15, 1999), known professionally as Big L, was an American rapper and songwriter. He is regarded as one of the most lyrical rappers. Emerging from East Harlem, New York in the early to mid-1990s, Coleman became well known amongst underground hip-hop fans for his freestyling ability, and was eventually signed to Columbia Records, where, in 1995, he released his debut album, Lifestylez ov da Poor & Dangerous, an album that is now considered by many fans to be a classic. On February 15, 1999, Coleman was shot nine times by an unknown assailant in East Harlem, New York, his hometown. He died from his injuries.",
-    profile_pic: "https://img.discogs.com/ni7mfuyjEiMgKmPG7ixjMMc7m1A=/fit-in/524x705/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-39956-1499748788-5883.jpeg.jpg"
+    profile_pic: "https://i.scdn.co/image/cd2db931f75881a4bf11033ba07f30da5799944f"
 )
 
 Artist.create(
@@ -463,8 +463,8 @@ Artist.create(
 
 Artist.create(
     name: "Phife Dawg",
-    bio: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Phife_Dawg-mika.jpg",
-    profile_pic: "Malik Izaak Taylor (November 20, 1970 – March 22, 2016), known professionally as Phife Dawg (or simply Phife), was an American rapper and a member of the group A Tribe Called Quest with Q-Tip and Ali Shaheed Muhammad (and for a short time Jarobi White). He was also known as the 'Five-Foot Assassin' and 'The Five-Footer', because he stood at 5 feet 3 inches (1.60 m)."
+    bio: "Malik Izaak Taylor (November 20, 1970 – March 22, 2016), known professionally as Phife Dawg (or simply Phife), was an American rapper and a member of the group A Tribe Called Quest with Q-Tip and Ali Shaheed Muhammad (and for a short time Jarobi White). He was also known as the 'Five-Foot Assassin' and 'The Five-Footer', because he stood at 5 feet 3 inches (1.60 m).",
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Phife_Dawg-mika.jpg"
 )
 
 Artist.create(
@@ -632,7 +632,7 @@ Artist.create(
 Artist.create(
     name: "Das EFX",
     bio: "Das EFX is an American hip hop duo. It consists of emcees Dray (also known as Krazy Drayz, born Andre Weston, September 9, 1970) and Skoob (also known as Books, born William 'Willie' Hines, November 27, 1970). They named themselves 'DAS' standing for 'Dray and Skoob' and 'EFX' meaning 'effects'. They rose to popularity in the early 1990s due to the duo's stream of consciousness lyrical delivery, which became one of the most influential lyrical styles in hip hop music at the time; as well as their affiliation with EPMD's Hit Squad. Their style combined intricate rhymes, sometimes mixed with made up words (especially ending with '-iggedy'), delivered with a fast-paced flow and numerous pop culture and hip hop culture references.",
-    profile_pic: "https://en.wikipedia.org/wiki/Das_EFX#/media/File:Das_EFX-mika-06.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Das_EFX-mika-06.jpg"
 )
 
 Artist.create(
@@ -674,7 +674,7 @@ Artist.create(
 Artist.create(
     name: "The Lox",
     bio: "The Lox is an American hip hop group from Yonkers, New York, composed of East Coast rappers Sheek Louch, Styles P, and Jadakiss. They had originally signed to Sean Combs' Bad Boy Records in 1995, before joining Ruff Ryders Entertainment in 1999, and have since launched their own label, D-Block Records.",
-    profile_pic: "https://img.discogs.com/Cgmi-ksg-eJrLXEETTIajR0CZRw=/600x396/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-67039-1518100357-9582.jpeg.jpg"
+    profile_pic: "https://www.rollingstone.com/wp-content/uploads/2018/06/gettyimages-631677090-f017bfe2-bd17-4c7b-b2d6-cbfa3c24e7e6.jpg?resize=900,600&w=450"
 )
 
 Artist.create(
@@ -716,7 +716,7 @@ Artist.create(
 Artist.create(
     name: "Cappadonna",
     bio: "Darryl Hill (born September 18, 1969), better known by his stage name Cappadonna, is an American rapper. He is a member of the hip-hop collective the Wu-Tang Clan and is a member of the rap group Theodore Unit together with Ghostface Killah.",
-    profile_pic: "https://img.discogs.com/eMuTOPNnUEg_pojdXBCG7HXnIBc=/564x643/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-45241-1516044277-9172.jpeg.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cappadonna2.png"
 )
 
 Artist.create(
@@ -764,7 +764,7 @@ Artist.create(
 Artist.create(
     name: "Lord Finesse",
     bio: "Lord Finesse (born Robert Hall Jr., February 19, 1970) is an American rapper and hip-hop record producer from The Bronx, New York best known as the leader of the D.I.T.C. crew. About.com ranked him number 29 on its list of the Top-50 Hip-Hop Producers.",
-    profile_pic: "https://img.discogs.com/OIh93_HjQr-Fc-XAYpdpzmxLnK8=/600x630/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-65048-1490319107-6702.jpeg.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lord_Finesse.jpg"
 )
 
 Artist.create(
@@ -878,7 +878,7 @@ Artist.create(
 Artist.create(
     name: "Lords of the Underground",
     bio: "The Lords of the Underground (L.O.T.U.G.) is a hip-hop trio based in Newark, New Jersey. The group is composed of Dupré 'DoItAll' Kelly, Al'Terik 'Mr. Funke' Wardrick and Bruce 'DJ Lord Jazz' Colston.",
-    profile_pic: "https://img.discogs.com/y0e0wTJ0AQhlx6JoEtyhxpKG9Bw=/600x452/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-18606-1318788634.jpeg.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/en/5/53/Faith_LOTUG.jpg"
 )
 
 Artist.create(
@@ -914,7 +914,7 @@ Artist.create(
 Artist.create(
     name: "EPMD",
     bio: "EPMD is an American hip hop duo from Brentwood, New York. The duo's name is a concatenation of the members' names 'E' and 'PMD' or an acronym for 'Erick and Parrish Making Dollars', referencing its members: emcees Erick Sermon ('E' a.k.a. E Double) and Parrish Smith ('PMD' a.k.a. Parrish Mic Doc).",
-    profile_pic: "https://img.discogs.com/3sp1Qk-wgy3LFS9Isaj4FgBdZTA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-14742-1510650631-7215.jpeg.jpg"
+    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/b/bd/EPMD_%289288244052%29.jpg"
 )
 
 Artist.create(
@@ -1230,7 +1230,7 @@ Artist.create(
 Artist.create(
     name: "Lil Ugly Mane",
     bio: "Travis Miller (born May 13, 1984) is a multi-genre American musician and producer from Richmond, Virginia. He is best known for his 2012 album Mista Thug Isolation and his 2015 album Oblivion Access, both of which were released under his most popular stage name Lil Ugly Mane.",
-    profile_pic: "https://img.discogs.com/3oyqgJzXxZkYyAaelO8wjdxALAU=/531x625/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-2721063-1523341311-1347.png.jpg"
+    profile_pic: "https://i.ytimg.com/vi/c0QgLIh0cPE/maxresdefault.jpg"
 )
 
 Artist.create(
