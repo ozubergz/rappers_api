@@ -1,3 +1,3 @@
 class TopListSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :user, :artist
 end
