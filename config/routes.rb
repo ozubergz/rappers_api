@@ -10,6 +10,8 @@ Rails.application.routes.draw do
   get '/api/artists/:id', to: 'artists#show'
 
   get 'api/users', to: 'users#index'
+  post 'api/users', to: 'users#create'
   get 'api/users/:id', to: 'users#show'
+  
   
 end

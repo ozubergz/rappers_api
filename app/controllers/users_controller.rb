@@ -1,5 +1,9 @@
 class UsersController < ApplicationController
 
+    def create
+        byebug
+    end
+
     def index
         users = User.all
         render json: users
@@ -12,6 +16,12 @@ class UsersController < ApplicationController
         else
             render json: {message: "No user was found on that id."}
         end
+    end
+
+    private
+    
+    def user_params
+        params.permit(:username, :password, :profile_pic)
     end
 
 end

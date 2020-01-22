@@ -6,4 +6,5 @@ class UserSerializer < ActiveModel::Serializer
   def top_list
     self.object.top_lists
   end
+  
 end

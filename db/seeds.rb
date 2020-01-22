@@ -1341,18 +1341,18 @@ Artist.create(
     profile_pic: "https://images.squarespace-cdn.com/content/5354320ae4b0b5927b888e0b/1513014825219-M7EDR93A3TGVNNMZT8TU/Ghostemane.jpg?content-type=image%2Fjpeg"
 )
 
-100.times do
-    Comment.create(
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
-            anim id est laborum.",
-        artist: Artist.all.sample(),
-        user: User.create(username: Faker::Internet.username)
-    )
-end
+# 100.times do
+#     Comment.create(
+#         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+#             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+#             exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+#             dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+#             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
+#             anim id est laborum.",
+#         artist: Artist.all.sample(),
+#         user: User.create(username: Faker::Internet.username)
+#     )
+# end
 
 
 
