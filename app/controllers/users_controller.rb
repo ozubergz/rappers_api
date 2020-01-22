@@ -13,4 +13,5 @@ class UsersController < ApplicationController
             render json: {message: "No user was found on that id."}
         end
     end
+
 end
