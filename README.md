@@ -1,24 +1,8 @@
-# README
+# Rap App Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Website for hip hop enthusiasts to comment about their favorite rappers and add them to their personal list
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby on Rails to develop backend list of rappers API 
+- Persists all users and comments when created
+- Authenticate users to login and signup
+- Linked repo to frontend (https://github.com/ozubergz/rap_app_frontend)
