@@ -72,7 +72,7 @@ Artist.create(
 Artist.create(
     name: "Travis Scott",
     bio: "Jacques Berman Webster II (born April 30, 1992), known professionally as Travis Scott (formerly stylized as Travi$ Scott), is an American rapper, singer, songwriter, and record producer. In 2012, Scott signed his first major-label deal with Epic Records. In November of the same year, Scott signed a deal with Kanye West's GOOD Music, as part of its production wing Very GOOD Beats. In April 2013, Scott signed a record deal with T.I.'s Grand Hustle imprint.",
-    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Travis_Scott_April_2017.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/travis_scott.jpg"
 )
 
 Artist.create(
