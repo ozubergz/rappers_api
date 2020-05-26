@@ -84,7 +84,7 @@ Artist.create(
 Artist.create(
     name: "Takeoff",
     bio: "Kirshnik Khari Ball (born June 18, 1994), known professionally as Takeoff, is an American rapper, singer and songwriter. He is best known as a member of the hip hop and trap music trio Migos along with Quavo, his uncle, and Offset, his cousin.",
-    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Takeoff_Veld_festival_2017.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/take_off.jpg"
 )
 
 Artist.create(
@@ -106,7 +106,7 @@ Artist.create(
 Artist.create(
     name: "Drake",
     bio: "Aubrey Drake Graham (born October 24, 1986) is a Canadian rapper, singer, songwriter, producer, actor, and businessman. Drake initially gained recognition as an actor on the teen drama television series Degrassi: The Next Generation in the 2000s; intent on pursuing a career in music, he left the series in 2007 after releasing his debut mixtape Room for Improvement. He released two further independent projects, Comeback Season and So Far Gone, before signing to Young Money Entertainment in June 2009.",
-    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/8/81/Drake_at_the_Velvet_Underground_-_2017_%2835986086223%29_%28cropped%29.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/drake.jpg"
 )
 Artist.create(
     name: "Cardi B",
@@ -153,7 +153,7 @@ Artist.create(
 Artist.create(
     name: "Joyner Lucas",
     bio: "Gary Maurice 'Joyner' Lucas, Jr. (born August 17, 1988) is an American rapper, singer, songwriter, record producer, poet, and actor from Worcester, Massachusetts.",
-    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/3/30/Joyner_Lucas.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/joyner_lucas.jpg"
 )
 
 Artist.create(
@@ -308,7 +308,7 @@ Artist.create(
 Artist.create(
     name: "Lil Tjay",
     bio: "Tione Jayden Merritt, better known as Lil Tjay, is an American rapper, singer, and songwriter. Born and raised in the Bronx he is best known for collaboration with Polo G, Pop Out, which peaked at 11 on the Billboard Hot 100 and his songs 'Brothers' and 'Leaked', which became staples on the SoundCloud charts and led to his signing with Columbia Records.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/Lil-Tjay-f-n-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/lil_tjay.jpg"
 )
 
 Artist.create(
@@ -512,7 +512,7 @@ Artist.create(
 Artist.create(
     name: "Joey Bada$$",
     bio: "Jo-Vaughn Virginie Scott (born January 20, 1995), known by his stage name Joey Badass (stylized as Joey Bada$$), is an American rapper, singer, songwriter, record producer and actor. Raised in Brooklyn, New York, he is a founding member of the hip-hop collective Pro Era, with whom he has released three mixtapes, as well as his numerous solo projects.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/01-Pony-x-Joey-Badass-campaign-2017-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/joey_badass.jpg"
 )
 
 Artist.create(
@@ -608,13 +608,13 @@ Artist.create(
 Artist.create(
     name: "Mac Miller",
     bio: "Malcolm James McCormick (January 19, 1992 – September 7, 2018), known professionally as Mac Miller, was an American rapper, singer, songwriter, and record producer. Born in Pittsburgh, Pennsylvania, Miller began his career in the city's hip hop scene in 2007, at the age of fifteen. In 2010, he signed a record deal with Pittsburgh-based independent label Rostrum Records, with whom he had his breakthrough with the mixtapes K.I.D.S. (2010) and Best Day Ever (2011).",
-    profile_pic: "https://www.billboard.com/files/media/Mac-Miller-press-by-G-L-Askew-II-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/mac_miller.jpg"
 )
 
 Artist.create(
     name: "Lloyd Banks",
     bio: "Christopher Charles Lloyd (born April 30, 1982), better known by his stage name Lloyd Banks, is an American rapper. Banks began his career as a member of East Coast hip hop group G-Unit, alongside childhood friends 50 Cent and Tony Yayo. After the group released their debut album, Beg for Mercy in 2003, Banks released his first solo album The Hunger for More in 2004, which featured the top ten hit single 'On Fire'. His second studio album, Rotten Apple was released in 2006.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/Lloyd-Banks-2016-a-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/lloyd_banks.jpg"
 )
 
 Artist.create(
@@ -668,7 +668,7 @@ Artist.create(
 Artist.create(
     name: "Run the Jewels",
     bio: "Run the Jewels is an American hip hop duo, formed by rappers El-P and Killer Mike in 2013. That same year, they released their self-titled first album titled Run the Jewels, as a free digital download.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/run-the-jewels-march-2017-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/run_the_jewels.jpg"
 )
 
 Artist.create(
@@ -746,7 +746,7 @@ Artist.create(
 Artist.create(
     name: "Lil Dicky",
     bio: "David Andrew Burd (born March 15, 1988), better known by his stage name Lil Dicky or LD, is an American rapper and comedian. He came to prominence with the release of the music video to his song 'Ex-Boyfriend', which went viral with more than one million views on YouTube in 24 hours. He released his debut album Professional Rapper on July 31, 2015.",
-    profile_pic: "https://www.billboard.com/files/styles/768x433/public/media/02-Lil-Dicky-bb12-2019-beat-billboard-bdsjknrt-1500.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/lil_dicky.png"
 )
 
 Artist.create(
@@ -848,7 +848,7 @@ Artist.create(
 Artist.create(
     name: "ASAP Ferg",
     bio: "Darold Durard Brown Ferguson Jr. (born October 20, 1988), known by his stage name ASAP Ferg (stylized A$AP Ferg), is an American rapper and songwriter from New York City's Harlem neighborhood. Aside from his solo career, he is a member of the hip hop collective A$AP Mob, from which he adopted a record deal with Polo Grounds and RCA, the same labels that helped launch A$AP Worldwide. Two years prior, Ferg's A$AP Mob cohorts A$AP Rocky and A$AP Yams, negotiated their own respective deal in 2011. His debut album Trap Lord was released on August 20, 2013, and was met with generally positive reviews. On April 22, 2016, Ferg released his second studio album, Always Strive and Prosper. On August 18, 2017, Ferg released his second mixtape, Still Striving.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/asap-ferg-jan-2018-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/asap_ferg.jpg"
 )
 
 Artist.create(
@@ -938,7 +938,7 @@ Artist.create(
 Artist.create(
     name: "Tory Lanez",
     bio: "Daystar Peterson (born July 27, 1992), better known by his stage name Tory Lanez, is a Canadian rapper, singer, songwriter, and record producer. He received initial recognition from the mixtape, Conflicts of My Soul: The 416 Story released in August 2013.",
-    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tory_Lanez_August_2017.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/tory_lanez.jpg"
 )
 
 Artist.create(
@@ -1139,13 +1139,13 @@ Artist.create(
 Artist.create(
     name: "Lil Xan",
     bio: "Nicholas Diego Leanos (born September 6, 1996), better known as Lil Xan or simply Diego, is an American rapper, singer and songwriter from Redlands, California. He is best known for his song 'Betrayed', which was certified platinum by the RIAA and peaked at number 64 on the Billboard Hot 100. On April 6, 2018, Leanos released his debut studio album, Total Xanarchy. His sophomore album, When September Ends, is due for release in January 2020.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/lil-xan-2018-sxm-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/lil_xan.png"
 )
 
 Artist.create(
     name: "Yung Lean",
     bio: "Jonatan Leandoer Håstad (born 18 July 1996), known professionally as Yung Lean, is a Swedish rapper, singer, songwriter and record producer. Born in Minsk, he rose to prominence in 2013 with his song 'Ginseng Strip 2002' which became a viral success on YouTube. In 2013, Yung Lean released his debut mixtape, Unknown Death 2002, and the following year he released his debut studio album, Unknown Memory. In 2016, he released the mixtape Frost God, and his second studio album, Warlord. In 2017, Yung Lean released his third studio album, Stranger, followed by his third mixtape, Poison Ivy, in November 2018.",
-    profile_pic: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Yung_Lean_%2836469272325%29.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/yung_lean.jpg"
 )
 
 Artist.create(
@@ -1212,7 +1212,7 @@ Artist.create(
 Artist.create(
     name: "Bhad Bhabie",
     bio: "Danielle Peskowitz Bregoli (born March 26, 2003),[2] also known by her stage name Bhad Bhabie, is an American rapper and internet personality from Boynton Beach, Florida. She first became known from an episode of Dr. Phil in September 2016, in which she said the phrase, 'Catch me outside, how about that?', which became a viral video meme and catchphrase. In 2017, Bregoli became the youngest female rapper ever to appear on the Billboard Hot 100 chart with her debut single 'These Heaux'.",
-    profile_pic: "https://www.billboard.com/files/media/02-Bhad-Bhabie-press-by-Bonnie-Nichoalds-2019-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/bhad_bhabie.jpg"
 )
 
 Artist.create(
@@ -1260,7 +1260,7 @@ Artist.create(
 Artist.create(
     name: "IDK",
     bio: "Jason Mills (born May 24, 1992), better known as IDK (formerly Jay IDK), is an American rapper, singer and record producer from Bowie, Maryland.",
-    profile_pic: "https://www.billboard.com/files/styles/article_main_image/public/media/IDK-press-2019-cr-Mike-Miller-billboard-1548.jpg"
+    profile_pic: "https://rappers.s3.amazonaws.com/idk.jpg"
 )
 
 Artist.create(
